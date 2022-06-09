@@ -6,3 +6,5 @@ Promotional website for fictional coffee house developed as part of introductory
 ![JavaJam](JavaJam.gif)
 
 ![JavaJam-tablet](JavaJam-tablet.gif)
+
+![JavaJam-phone](JavaJam-phone.gif)
