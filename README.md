@@ -28,7 +28,7 @@ http://myweb.students.wwu.edu/~murray39/CS102/oliver/Lab8/index.html
 The site consists of four HTML5 pages developed from scratch and styled using CSS3. Each page contains a navigational bar (location dependent on screen size) that directs you to any and all pages of the website. Media is encoded into the music page using HTML5 audio controls that allow for the audio to play throughout the page. The job application is a basic form encoded in HTML5. The date of last access to the site is displayed on the home page using JavaScript. 
 
 ### Desktop
-The desktop version of the JavaJam website developed for screen sizes above 1024px. The navigational bar is located to the left of the page for easy mavigation.
+The desktop version of the JavaJam website developed for screen sizes above 1024px. The navigational bar is located to the left of the page for easy navigation.
 
 ![JavaJam](JavaJam.gif)
 
