@@ -22,6 +22,7 @@ Promotional website for fictional coffee house developed as part of introductory
 
 ## Overview
 Developed a promotional website for JavaJam–a fictional coffee house providing food, music, and jobs to their community. To learn more about their menu, live performance schedule, and job application process visit their website:
+
 http://myweb.students.wwu.edu/~murray39/CS102/oliver/Lab8/index.html
 
 ## Implementation
